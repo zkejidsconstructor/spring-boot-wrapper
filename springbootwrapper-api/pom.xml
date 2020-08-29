@@ -11,9 +11,9 @@
     </parent>
     <artifactId>springbootwrapper-api</artifactId>
 
-    <name>Springbootwrapper API</name>
-    <description>API for springbootwrapper.</description>
-    <url>https</url>
+    <name>Spring Boot Wrapper API</name>
+    <description>API for Spring Boot Wrapper.</description>
+    <url>https://github.com/zkejidsconstructor/spring-boot-wrapper/tree/master/springbootwrapper-api</url>
 
     <licenses>
         <license>

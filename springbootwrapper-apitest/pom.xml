@@ -11,9 +11,9 @@
     </parent>
     <artifactId>springbootwrapper-apitest</artifactId>
 
-    <name>Springbootwrapper API tests</name>
-    <description>Tests on the API of springbootwrapper.</description>
-    <url>https</url>
+    <name>Spring Boot Wrapper API tests</name>
+    <description>Tests on the API of Spring Boot Wrapper.</description>
+    <url>https://github.com/zkejidsconstructor/spring-boot-wrapper/tree/master/springbootwrapper-apitest</url>
 
     <dependencies>
         <dependency>

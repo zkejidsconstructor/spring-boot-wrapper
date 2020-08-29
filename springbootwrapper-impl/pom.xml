@@ -11,9 +11,9 @@
     </parent>
     <artifactId>springbootwrapper-impl</artifactId>
 
-    <name>Springbootwrapper implementation</name>
-    <description>Implementation of the API of springbootwrapper.</description>
-    <url>https</url>
+    <name>Spring Boot Wrapper implementation</name>
+    <description>Implementation of the API of Spring Boot Wrapper.</description>
+    <url>https://github.com/zkejidsconstructor/spring-boot-wrapper/tree/master/springbootwrapper-impl</url>
 
     <dependencies>
         <dependency>

@@ -10,7 +10,7 @@
   <packaging>pom</packaging>
 
   <name>Springbootwrapper</name>
-  <description>Springbootwrapper.</description>
+  <description>Spring Boot Wrapper.</description>
   <url>https://github.com/zkejidconstructor/springbootwrapper</url>
 
   <properties>
@@ -173,8 +173,8 @@
   </developers>
 
   <scm>
-    <connection>scm:git:</connection>
-    <developerConnection>scm:git:</developerConnection>
+    <connection>scm:git:git@github.com:zkejidsconstructor/spring-boot-wrapper.git</connection>
+    <developerConnection>scm:git:git@github.com:zkejidsconstructor/spring-boot-wrapper.git</developerConnection>
     <url></url>
   </scm>
 
