@@ -1,8 +1,9 @@
-package com.zkejid.constructor.projectname.impl;
+package com.zkejid.constructor.springbootwrapper.impl;
 
 import com.zkejid.constructor.core.api.v1.ConstructionException;
 import com.zkejid.constructor.core.api.v1.ConstructorPart;
-import com.zkejid.constructor.projectname.api.v1.Api;
+import com.zkejid.constructor.core.api.v1.EntryPoint;
+import com.zkejid.constructor.springbootwrapper.api.v1.Api;
 import java.util.Collections;
 import java.util.Set;
 
@@ -15,7 +16,7 @@ public class ConstructorPartImpl implements ConstructorPart {
 
   @Override
   public Set<Class<?>> getInterfacesProvided() {
-    return Set.of(Api.class);
+    return Set.of(Api.class, EntryPoint.class);
   }
 
   @Override

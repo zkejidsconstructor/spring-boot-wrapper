@@ -1,6 +1,6 @@
-package com.zkejid.constructor.projectname.api.v1.test;
+package com.zkejid.constructor.springbootwrapper.api.v1.test;
 
-import com.zkejid.constructor.projectname.api.v1.Api;
+import com.zkejid.constructor.springbootwrapper.api.v1.Api;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
