@@ -14,7 +14,7 @@
 
   <name>Spring boot server</name>
   <description>Constructor part which is responsible for server start</description>
-  <url>https://github.com/zkejidconstructor/spring-boot-wrapper/springbootwrapper-server</url>
+  <url>https://github.com/zkejidsconstructor/spring-boot-wrapper/tree/master/springbootwrapper-server</url>
 
   <modules>
     <module>springbootwrapperserver-api</module>

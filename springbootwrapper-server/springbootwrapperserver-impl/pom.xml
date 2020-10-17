@@ -13,7 +13,7 @@
 
     <name>Spring Boot Server implementation</name>
     <description>Implementation of the API of Spring Boot Server.</description>
-    <url>https://github.com/zkejidconstructor/spring-boot-wrapper/springbootwrapper-server/springbootwrapperserver-impl</url>
+    <url>https://github.com/zkejidsconstructor/spring-boot-wrapper/tree/master/springbootwrapper-server/springbootwrapperserver-impl</url>
 
     <dependencies>
         <dependency>

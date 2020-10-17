@@ -13,7 +13,7 @@
 
     <name>Spring Boot Server API tests</name>
     <description>Tests on the API of Spring Boot Server.</description>
-    <url>https://github.com/zkejidconstructor/spring-boot-wrapper/springbootwrapper-server/springbootwrapperserver-apitest</url>
+    <url>https://github.com/zkejidsconstructor/spring-boot-wrapper/tree/master/springbootwrapper-server/springbootwrapperserver-apitest</url>
 
     <dependencies>
         <dependency>
