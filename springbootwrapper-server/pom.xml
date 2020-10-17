@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <parent>
+    <artifactId>spring-boot-wrapper</artifactId>
+    <groupId>com.zkejid.constructor</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+
+  <artifactId>springbootwrapper-server</artifactId>
+  <packaging>pom</packaging>
+
+  <name>Spring boot server</name>
+  <description>Constructor part which is responsible for server start</description>
+  <url>https://github.com/zkejidconstructor/spring-boot-wrapper/springbootwrapper-server</url>
+
+  <modules>
+    <module>springbootwrapperserver-api</module>
+    <module>springbootwrapperserver-apitest</module>
+    <module>springbootwrapperserver-impl</module>
+  </modules>
+
+</project>

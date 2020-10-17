@@ -5,15 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>springbootwrapper</artifactId>
+        <artifactId>springbootwrapper-server</artifactId>
         <groupId>com.zkejid.constructor</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>springbootwrapper-api</artifactId>
+    <artifactId>springbootwrapperserver-api</artifactId>
 
-    <name>Spring Boot Wrapper API</name>
-    <description>API for Spring Boot Wrapper.</description>
-    <url>https://github.com/zkejidsconstructor/spring-boot-wrapper/tree/master/springbootwrapper-api</url>
+    <name>Spring Boot Server API</name>
+    <description>API for Spring Boot Server.</description>
+    <url>https://github.com/zkejidconstructor/spring-boot-wrapper/springbootwrapper-server/springbootwrapperserver-api</url>
 
     <licenses>
         <license>

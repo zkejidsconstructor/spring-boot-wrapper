@@ -5,20 +5,20 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>springbootwrapper</artifactId>
+        <artifactId>springbootwrapper-server</artifactId>
         <groupId>com.zkejid.constructor</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>springbootwrapper-apitest</artifactId>
+    <artifactId>springbootwrapperserver-apitest</artifactId>
 
-    <name>Spring Boot Wrapper API tests</name>
-    <description>Tests on the API of Spring Boot Wrapper.</description>
-    <url>https://github.com/zkejidsconstructor/spring-boot-wrapper/tree/master/springbootwrapper-apitest</url>
+    <name>Spring Boot Server API tests</name>
+    <description>Tests on the API of Spring Boot Server.</description>
+    <url>https://github.com/zkejidconstructor/spring-boot-wrapper/springbootwrapper-server/springbootwrapperserver-apitest</url>
 
     <dependencies>
         <dependency>
             <groupId>com.zkejid.constructor</groupId>
-            <artifactId>springbootwrapper-api</artifactId>
+            <artifactId>springbootwrapperserver-api</artifactId>
         </dependency>
 
         <dependency>

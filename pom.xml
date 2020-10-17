@@ -5,13 +5,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.zkejid.constructor</groupId>
-  <artifactId>springbootwrapper</artifactId>
+  <artifactId>spring-boot-wrapper</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>Springbootwrapper</name>
-  <description>Spring Boot Wrapper.</description>
-  <url>https://github.com/zkejidconstructor/springbootwrapper</url>
+  <name>Spring Boot Wrapper</name>
+  <description>Set of artifacts which adapt Spring Boot to Constructor interfaces</description>
+  <url>https://github.com/zkejidconstructor/spring-boot-wrapper</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -28,9 +28,7 @@
   </properties>
 
   <modules>
-    <module>springbootwrapper-api</module>
-    <module>springbootwrapper-apitest</module>
-    <module>springbootwrapper-impl</module>
+    <module>springbootwrapper-server</module>
   </modules>
 
   <build>
@@ -129,7 +127,7 @@
       <!-- Project artifacts -->
       <dependency>
         <groupId>com.zkejid.constructor</groupId>
-        <artifactId>springbootwrapper-api</artifactId>
+        <artifactId>springbootwrapperserver-api</artifactId>
         <version>${project.version}</version>
       </dependency>
 
